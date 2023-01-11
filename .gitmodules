@@ -1,0 +1,3 @@
+[submodule "src/DarkMode_UI"]
+	path = src/DarkMode_UI
+	url = https://github.com/dungItOminext/DarkMode_UI.git
